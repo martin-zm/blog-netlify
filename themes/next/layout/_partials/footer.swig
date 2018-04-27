@@ -25,7 +25,7 @@
 <div class="powered-by">
 <i class="fa fa-user-md"></i>
 <span id="busuanzi_container_site_uv">
-<span id="busuanzi_value_site_uv"></span>
+用户量：<span id="busuanzi_value_site_uv"></span>
 </span>
 </div>
 
@@ -57,7 +57,7 @@
 <div class="powered-by">
 <i class="fa fa-eye"></i>
 <span id="busuanzi_container_site_pv">
-<span id="busuanzi_value_site_pv"></span>
+访问量：<span id="busuanzi_value_site_pv"></span>
 </span>
 </div>
 

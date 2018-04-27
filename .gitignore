@@ -5,3 +5,6 @@ db.json
 node_modules/
 public/
 .deploy*/
+.idea/
+package.json
+package-lock.json
