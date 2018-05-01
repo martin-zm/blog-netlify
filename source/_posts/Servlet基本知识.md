@@ -3,8 +3,9 @@ author: 禾田
 tags:
   - servlet
 categories:
-  - web
-date: 2018-04-25 10:12:00
+  - java
+date: 2018-02-28 10:12:00
+description: servlet必备知识
 ---
 **注意：**开发Servlet需要导入servlet-api.jar包。
 

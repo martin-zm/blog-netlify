@@ -1,9 +1,11 @@
----
 title: java集合面试
-date: 2018-04-23 14:30:31
-categories: java
-tags: [java,面试]
+categories:
+  - java
+tags:
+  - java
+  - 面试
 description: 面试必问的java集合问题，包括：list set map
+date: 2018-01-25 14:30:00
 ---
 **在Java集合框架源码中有如下几点说明：**
 

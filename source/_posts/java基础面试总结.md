@@ -1,9 +1,11 @@
----
 title: java基础面试总结
-date: 2018-04-22 15:44:27
-categories: java
-tags: [java,面试]
+categories:
+  - java
+tags:
+  - java
+  - 面试
 description: java最基本的面试知识，准备找工作的同学不要错过喔~
+date: 2018-01-20 15:44:00
 ---
 
 ## 面向对象的三大特性

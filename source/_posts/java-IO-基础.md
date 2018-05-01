@@ -1,15 +1,17 @@
----
 title: java IO 基础
-date: 2018-04-23 17:29:01
-categories: java
-tags: [java,面试]
+categories:
+  - java
+tags:
+  - java
+  - 面试
 description: java IO 基础知识总结
+date: 2018-01-28 17:29:00
 ---
 参考：[Java IO技术博客](http://blog.csdn.net/hxpjava1/article/details/56282385)
 
 ## BIO（同步并阻塞）
 
- | 字节输入流 | 字节输出流 | 字符输入流 | 字符输出流
+ | 字节输入流  | 字节输出流  | 字符输入流  | 字符输出流 
 :---:|:---:|:---:|:---:|:---:
 抽象基类 | InputStream | OutputStream | Reader | Writer
 访问文件 | FileInputStream | FileOutputStream | FileReader | FileWriter
@@ -61,8 +63,3 @@ description: java IO 基础知识总结
 **Selectors（选择器）：** Java NIO引入了选择器的概念，选择器用于监听多个通道的事件（比如：连接打开，数据到达）。因此，单个的线程可以监听多个数据通道。
 
 **Asynchronous IO（异步IO）：**  Java NIO可以让你异步的使用IO，例如：当线程从通道读取数据到缓冲区时，线程还是可以进行其他事情。当数据被写入到缓冲区时，线程可以继续处理它。从缓冲区写入通道也类似。
-
-
-
-
-

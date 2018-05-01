@@ -2,8 +2,10 @@ title: Redis基本操作
 author: 禾田
 tags:
   - redis
-categories: []
-date: 2018-04-25 10:24:00
+categories:
+  - redis
+date: 2018-04-20 10:24:00
+description: redis缓存基础知识
 ---
 ## Redis简介
 Redis是一个速度非常快的非关系数据库（non-relational database），它可以存储键（key）与5种不同类型的值（value）之间的映射（mapping），可以将存储在内存的键值对数据持久化到硬盘，可以使用复制特性来扩展读性能，还可以使用客户端分片来扩展写性能

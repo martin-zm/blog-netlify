@@ -2,9 +2,12 @@ title: mybatis框架面试题
 author: 禾田
 tags:
   - mybatis
+  - 面试
 categories:
   - mybatis
-date: 2018-04-25 10:04:00
+  - 面试
+date: 2018-02-18 10:04:00
+description: mybatis框架常见面试题
 ---
 参考博客：[Mybatis常见面试题](https://my.oschina.net/zudajun/blog/747682)
 

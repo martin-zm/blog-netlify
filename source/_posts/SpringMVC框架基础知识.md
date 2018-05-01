@@ -4,13 +4,14 @@ tags:
   - springMvc
 categories:
   - springmvc
-date: 2018-04-25 10:05:00
+date: 2018-02-20 10:05:00
+description: SpringMVC的执行过程
 ---
-### SpringMVC运行流程  
+**SpringMVC运行流程**
 
-![image](http://img.blog.csdn.net/20150430134236240)  
+![image](http://owq01tqh9.bkt.clouddn.com/5.png)  
 
-![image](http://images2015.cnblogs.com/blog/799093/201607/799093-20160724233025107-1243112232.jpg)
+![image](http://owq01tqh9.bkt.clouddn.com/6.jpg)
 
 1）用户发送请求至前端控制器DispatcherServlet。  
 

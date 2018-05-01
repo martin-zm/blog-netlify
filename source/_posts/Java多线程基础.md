@@ -2,8 +2,10 @@ title: Java多线程基础
 author: 禾田
 tags:
   - 多线程
-categories: []
-date: 2018-04-25 10:21:00
+categories:
+  - java
+date: 2018-03-25 10:21:00
+description: java多线程基础知识
 ---
 ## 线程和进程的区别联系
 **进程：**操作系统运行中的程序（进程和程序的区别是程序只是一个静态的指令集合，而进程则是系统中一个活动的指令集合，加入了时间）。  
@@ -24,7 +26,7 @@ date: 2018-04-25 10:21:00
 
 3）实现Callable接口，功能是Runnable的增强版本（java5之后提供）。接口中定义的方法有返回值，可以抛出异常。
 
-###实现Runnable或Callable接口
+### 实现Runnable或Callable接口
 
 **优点：** 
  
@@ -36,7 +38,7 @@ date: 2018-04-25 10:21:00
 
 编码可能较为复杂，如果要访问当前线程的话，则必须要使用Thread.currentThread()方法。
 
-###继承Thread类   
+### 继承Thread类   
 优点：  
 - 程序编写起来简单，如果需要访问当前线程的话，不用使用Thread.currentThread()方法，直接使用this即可。
 
@@ -44,7 +46,7 @@ date: 2018-04-25 10:21:00
 - 线程类以及继承了Thread类，不能再继承其他父类了。
 
 ## 线程的生命周期
-![线程的生命周期](http://img.blog.csdn.net/20150627094953213)
+![图片飞走了~](http://owq01tqh9.bkt.clouddn.com/11.png)
 **线程5种状态：**   
 
 1）new(创建)：线程通过new方法创建。
@@ -65,7 +67,7 @@ date: 2018-04-25 10:21:00
 4）处于运行状态的线程遇到wait()方法（object的方法），线程处于等待状态，需要notify()/notifyALL()来唤醒线程，唤醒后的线程处于锁定状态，获取了“同步锁”，之后，线程才转为就绪状态。  
 5）处于运行的线程synchronized，加上后变成同步操作。处于锁定状态，获取了“同步锁”，之后，线程才转为就绪状态。
 
-##5. 线程控制
+## 线程控制
 
 1）join()方法（Thread类提供的静态方法） [java 线程方法join的简单总结](https://www.cnblogs.com/lcplcpjava/p/6896904.html)  
 说明：让一个线程等待另一个线程执行完成。当前线程必须等待调用join()方法的线程执行完成后，才能继续向下执行。
@@ -142,7 +144,7 @@ class X {
 
 ## 线程间通讯
 
-###传统线程通讯（对应同步代码块和同步方法情况）
+### 传统线程通讯（对应同步代码块和同步方法情况）
 
 调用Object类的wait()、notify()、notifyAll()方法来实现线程间通讯，这三个方法是jvm中的native方法。
 
@@ -181,7 +183,7 @@ class X {
 
 相比使用Object的wait()、notify()，使用Condition的await()、signal()这种方式实现线程间协作更加安全和高效。
 
-###BlockingQueue（java5提供）  
+### BlockingQueue（java5提供）  
 
 它是Queue的子接口，作用不是作为容器，而是作为一个线程同步的工具。  
 
@@ -212,7 +214,7 @@ Executors工厂类来产生线程池。
 
 ```Java
 public class ThreadPoolTest {
-    pulic static void main(String[] args) throws Exception {
+    public static void main(String[] args) throws Exception {
         //创建一个具有固定线程数(6)的线程池
         ExecutorService pool = Executors.newFixedThreadPool(6);
         //使用Lambda表达式创建Runnable对象
@@ -252,4 +254,3 @@ ThreadLocal类是从另一个角度来解决多线程的并发访问，ThreadLoc
 ## Volatile关键字
 
 [深入分析volatile的实现原理](http://cmsblogs.com/?p=2092)
-

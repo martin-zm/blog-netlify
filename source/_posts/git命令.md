@@ -4,7 +4,8 @@ tags:
   - git
 categories:
   - git
-date: 2018-04-25 09:51:00
+date: 2018-02-10 09:51:00
+description: git常用命令
 ---
 ## 1. 将当前目录设置成一个Git仓库
 ```git

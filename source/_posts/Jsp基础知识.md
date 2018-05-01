@@ -3,8 +3,9 @@ author: 禾田
 tags:
   - jsp
 categories:
-  - web
-date: 2018-04-25 10:10:00
+  - java
+date: 2018-02-25 10:10:00
+description: jsp相关基础知识
 ---
 >通过Servlet进行整个网站的开发是可以的。不过在Servlet中输出html代码，特别是稍微复杂一点的html代码，就会给人一种很**酸爽**的感觉。
 

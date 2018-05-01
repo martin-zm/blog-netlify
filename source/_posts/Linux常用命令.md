@@ -4,7 +4,8 @@ tags:
   - linux
 categories:
   - linux
-date: 2018-04-24 17:15:00
+date: 2018-02-05 17:15:00
+description: Linux面试常考命令
 ---
 ### 竖杠 |   
 

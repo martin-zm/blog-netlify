@@ -2,10 +2,12 @@ title: Memcached基本操作
 author: 禾田
 tags:
   - memcached
-categories: []
-date: 2018-04-25 10:23:00
+categories:
+  - memcached
+date: 2018-04-10 10:23:00
+description: memcached基本操作，让你对memcached有个直观的理解
 ---
-## 1. Memcached简介
+## Memcached简介
 Memcached是一个自由开源的，高性能，分布式内存对象缓存系统。  
 
 Memcached是一种基于内存的key-value存储，用来存储小块的任意数据（字符串、对象）。这些数据可以是数据库调用、API调用或者是页面渲染的结果。   
@@ -14,7 +16,7 @@ Memcached是一种基于内存的key-value存储，用来存储小块的任意�
 
 一般的使用目的是，通过缓存数据库查询结果，减少数据库访问次数，以提高动态Web应用的速度、提高可扩展性。
 
-## 2. Memcached安装配置
+## Memcached安装配置
 [Memcached安装配置---菜鸟教程](http://www.runoob.com/memcached/window-install-memcached.html)
 ```
 //注意：路径对应修改为自己的安装路径
@@ -30,7 +32,7 @@ c:\memcached\memcached.exe -d runservice -m 512
 c:\memcached\memcached.exe -h
 ```
 
-## 3. Memcached 连接
+## Memcached 连接
 ```
 //执行任何命令时需要先启动memcached服务(路径对应修改为自己的安装路径)
 c:\memcached\memcached.exe -d start
@@ -38,7 +40,7 @@ c:\memcached\memcached.exe -d start
 telnet 127.0.0.1 11211
 ```
 
-## 4. Memcached 存储命令
+## Memcached 存储命令
 <br>1. set命令
 ```
 //语法
@@ -296,7 +298,7 @@ EXISTS：在最后一次取值后另外一个用户也在更新该数据。
 NOT_FOUND：Memcached 服务上不存在该键值。
 ```
 ---
-## 5. Memcached 查找命令
+## Memcached 查找命令
 <br>1. get命令
 说明：Memcached get 命令获取存储在 key(键) 中的 value(数据值) ，如果 key 不存在，则返回空。
 ```
@@ -424,7 +426,7 @@ ERROR其他错误，如语法错误等。
 decr命令与此类似
 
 ---
-## 6. Memcached 统计命令
+## Memcached 统计命令
 <br>1. Memcached stats 命令
 说明：Memcached stats 命令用于返回统计信息例如 PID(进程号)、版本号、连接数等。
 ```
@@ -483,5 +485,5 @@ get runoob
 END
 ```
 
-## 7. Java连接Memcached服务
+## Java连接Memcached服务
 [Java连接Memcached服务---菜鸟教程](http://www.runoob.com/memcached/java-memcached.html)
