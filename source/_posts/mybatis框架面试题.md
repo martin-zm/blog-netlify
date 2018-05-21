@@ -5,7 +5,6 @@ tags:
   - 面试
 categories:
   - mybatis
-  - 面试
 date: 2018-02-18 10:04:00
 description: mybatis框架常见面试题
 ---

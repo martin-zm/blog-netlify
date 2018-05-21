@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Hexo.iml" filepath="$PROJECT_DIR$/.idea/Hexo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blog-netlify.iml" filepath="$PROJECT_DIR$/blog-netlify.iml" />
     </modules>
   </component>
 </project>
