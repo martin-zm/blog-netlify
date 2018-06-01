@@ -1,4 +1,4 @@
-title: 日志组件slfj4结合log4j使用
+title: 日志组件slf4j结合log4j使用
 author: 禾田
 tags:
   - 日志
