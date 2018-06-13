@@ -37,3 +37,4 @@ date: 2018-04-22 16:41:24
 | [配色表](http://tool.c7sky.com/webcolor) | 色彩搭配表 |
 | [logo设计](http://www.uugai.com/) | 免费快速设计LOGO制作 |
 | [音乐外链](https://music.2333.me/) | 在线音乐外链生成 |
+| [密码生成器](http://tool.c7sky.com/password/) | 随机密码生成器 |
