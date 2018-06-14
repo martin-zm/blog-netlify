@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72cd5163-454c-46f8-bd9e-cd9544e889f9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/links/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/links/index.md" afterDir="false" />
-    </list>
+    <list default="true" id="72cd5163-454c-46f8-bd9e-cd9544e889f9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -103,8 +100,8 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/排序算法.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="440">
-                <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+              <first_editor relative-caret-position="2376">
+                <caret line="132" column="40" selection-start-line="132" selection-start-column="40" selection-end-line="132" selection-end-column="40" />
               </first_editor>
               <second_editor />
             </state>
@@ -155,8 +152,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="305" />
-    <option name="y" value="240" />
+    <option name="x" value="48" />
+    <option name="y" value="30" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -286,12 +283,12 @@
       <workItem from="1528071601002" duration="598000" />
       <workItem from="1528160763383" duration="2322000" />
       <workItem from="1528427289966" duration="1313000" />
-      <workItem from="1528892318663" duration="457000" />
+      <workItem from="1528892318663" duration="2250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17135000" />
+    <option name="totallyTimeSpent" value="18928000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -751,8 +748,8 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/排序算法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="440">
-            <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+          <first_editor relative-caret-position="2376">
+            <caret line="132" column="40" selection-start-line="132" selection-start-column="40" selection-end-line="132" selection-end-column="40" />
           </first_editor>
           <second_editor />
         </state>
