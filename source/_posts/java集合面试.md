@@ -13,7 +13,7 @@ date: 2018-01-25 14:30:00
 
 2) 实现Cloneable接口目的：保证对象能实现克隆。
 
-3) AbstractList中的modCount变量（修改次数），通常会在迭代器中使用它，也就是说，在迭代器遍历的过程中，一旦发现这个对象的mcount和迭代器中存储的mcount不一样，那就抛异常。也就是Fail-Fast机制。对集合内容的修改都会改变modcount的值，那么在迭代器初始化过程中会将这个值赋给迭代器的expectedModCount。在迭代过程中，判断modCount跟expectedModCount是否相等，如果不相等就表示已经有其他线程修改了集合。  
+3) AbstractList中的modCount变量（修改次数），通常会在迭代器中使用它，也就是说，在迭代器遍历的过程中，一旦发现这个对象的mcount和迭代器中存储的mcount不一样，那就抛异常。也就是Fail-Fast机制。对集合的add和remove都会改变modcount的值，那么在迭代器初始化过程中会将这个值赋给迭代器的expectedModCount。在迭代过程中，判断modCount跟expectedModCount是否相等，如果不相等就表示已经有其他线程修改了集合。  
 
 4) Fail-Fast VS Fail-Safe
 
