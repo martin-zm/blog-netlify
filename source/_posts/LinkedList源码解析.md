@@ -1,4 +1,4 @@
-title: LinkedLIst源码解析
+title: LinkedList源码解析
 author: 禾田
 tags:
   - 'java集合框架源码 '
