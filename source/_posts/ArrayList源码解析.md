@@ -1,9 +1,9 @@
 title: ArrayList源码解析
 author: 禾田
 tags:
-  - java集合框架源码
+  - java集合源码
 categories:
-  - java集合框架源码
+  - java集合源码
 date: 2018-07-11 15:00:00
 ---
 ## 对于ArrayList需要掌握的七点内容

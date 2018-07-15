@@ -36,8 +36,8 @@
       <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package-lock.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="528" column="24" selection-start-line="528" selection-start-column="24" selection-end-line="528" selection-end-column="24" />
+            <state relative-caret-position="455">
+              <caret line="550" column="36" selection-start-line="550" selection-start-column="36" selection-end-line="550" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -313,12 +313,12 @@
       <workItem from="1530664564379" duration="1873000" />
       <workItem from="1530838509063" duration="2211000" />
       <workItem from="1531290841997" duration="2738000" />
-      <workItem from="1531365551089" duration="4578000" />
+      <workItem from="1531365551089" duration="4917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45168000" />
+    <option name="totallyTimeSpent" value="45507000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -342,7 +342,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32922733" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32922733" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.418813" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -819,8 +819,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="528" column="24" selection-start-line="528" selection-start-column="24" selection-end-line="528" selection-end-column="24" />
+        <state relative-caret-position="455">
+          <caret line="550" column="36" selection-start-line="550" selection-start-column="36" selection-end-line="550" selection-end-column="36" />
         </state>
       </provider>
     </entry>

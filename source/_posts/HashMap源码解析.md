@@ -1,9 +1,9 @@
 title: HashMap源码解析
 author: 禾田
 tags:
-  - java集合框架源码
+  - java集合源码
 categories:
-  - java集合框架源码
+  - java集合源码
 date: 2018-07-15 16:28:00
 ---
 ### 对于HashMap需要掌握以下几点
