@@ -3,7 +3,7 @@ author: 禾田
 tags:
   - java集合源码
 categories:
-  - 'java集合源码 '
+  - java集合源码
 date: 2018-07-12 19:57:00
 ---
 
