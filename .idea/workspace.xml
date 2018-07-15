@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72cd5163-454c-46f8-bd9e-cd9544e889f9" name="Default" comment="" />
+    <list default="true" id="72cd5163-454c-46f8-bd9e-cd9544e889f9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,11 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="565" column="36" selection-start-line="565" selection-start-column="36" selection-end-line="565" selection-end-column="36" />
+            <state relative-caret-position="228">
+              <caret line="556" column="10" selection-start-line="556" selection-start-column="10" selection-end-line="556" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="527" column="6" lean-forward="true" selection-start-line="527" selection-start-column="6" selection-end-line="527" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -50,16 +61,6 @@
               <first_editor relative-caret-position="352">
                 <caret line="16" selection-start-line="16" selection-end-line="16" />
               </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Linux常用命令.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/Linux常用命令.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -126,6 +127,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>插入</find>
+      <find>2.16.3</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -137,6 +139,7 @@
         <option value="$PROJECT_DIR$/source/_posts/mybatis框架面试题.md" />
         <option value="$PROJECT_DIR$/source/_posts/排序算法.md" />
         <option value="$PROJECT_DIR$/source/_posts/java集合面试.md" />
+        <option value="$PROJECT_DIR$/package-lock.json" />
       </list>
     </option>
   </component>
@@ -213,6 +216,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="package&#9;FILE&#9;file://E:/HexoBlog/blog-netlify/package-lock.json" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="E:/PersonalProject" />
@@ -311,12 +315,12 @@
       <workItem from="1530664564379" duration="1873000" />
       <workItem from="1530838509063" duration="2211000" />
       <workItem from="1531290841997" duration="2738000" />
-      <workItem from="1531365551089" duration="3017000" />
+      <workItem from="1531365551089" duration="3237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43607000" />
+    <option name="totallyTimeSpent" value="43827000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -329,6 +333,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32922733" />
@@ -340,7 +345,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32922733" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.418813" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.418813" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22974414" />
@@ -393,14 +398,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_posts/Java虚拟机.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/java集合面试.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -817,8 +814,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="565" column="36" selection-start-line="565" selection-start-column="36" selection-end-line="565" selection-end-column="36" />
+        <state relative-caret-position="228">
+          <caret line="556" column="10" selection-start-line="556" selection-start-column="10" selection-end-line="556" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="527" column="6" lean-forward="true" selection-start-line="527" selection-start-column="6" selection-end-line="527" selection-end-column="6" />
         </state>
       </provider>
     </entry>
