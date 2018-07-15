@@ -1,7 +1,7 @@
 title: LinkedList源码解析
 author: 禾田
 tags:
-  - 'java集合框架源码 '
+  - java集合框架源码
 categories:
   - 'java集合框架源码 '
 date: 2018-07-12 19:57:00

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72cd5163-454c-46f8-bd9e-cd9544e889f9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-    </list>
+    <list default="true" id="72cd5163-454c-46f8-bd9e-cd9544e889f9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,8 +36,8 @@
       <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package-lock.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="527" column="6" lean-forward="true" selection-start-line="527" selection-start-column="6" selection-end-line="527" selection-end-column="6" />
+            <state relative-caret-position="357">
+              <caret line="528" column="24" selection-start-line="528" selection-start-column="24" selection-end-line="528" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -315,12 +313,12 @@
       <workItem from="1530664564379" duration="1873000" />
       <workItem from="1530838509063" duration="2211000" />
       <workItem from="1531290841997" duration="2738000" />
-      <workItem from="1531365551089" duration="3237000" />
+      <workItem from="1531365551089" duration="3986000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43827000" />
+    <option name="totallyTimeSpent" value="44576000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -821,8 +819,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="527" column="6" lean-forward="true" selection-start-line="527" selection-start-column="6" selection-end-line="527" selection-end-column="6" />
+        <state relative-caret-position="357">
+          <caret line="528" column="24" selection-start-line="528" selection-start-column="24" selection-end-line="528" selection-end-column="24" />
         </state>
       </provider>
     </entry>
