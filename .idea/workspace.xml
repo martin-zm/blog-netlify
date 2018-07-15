@@ -27,8 +27,8 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="556" column="10" selection-start-line="556" selection-start-column="10" selection-end-line="556" selection-end-column="10" />
+            <state relative-caret-position="184">
+              <caret line="554" column="10" selection-start-line="554" selection-start-column="10" selection-end-line="554" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -313,12 +313,12 @@
       <workItem from="1530664564379" duration="1873000" />
       <workItem from="1530838509063" duration="2211000" />
       <workItem from="1531290841997" duration="2738000" />
-      <workItem from="1531365551089" duration="3986000" />
+      <workItem from="1531365551089" duration="4578000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44576000" />
+    <option name="totallyTimeSpent" value="45168000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -812,8 +812,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="556" column="10" selection-start-line="556" selection-start-column="10" selection-end-line="556" selection-end-column="10" />
+        <state relative-caret-position="184">
+          <caret line="554" column="10" selection-start-line="554" selection-start-column="10" selection-end-line="554" selection-end-column="10" />
         </state>
       </provider>
     </entry>
