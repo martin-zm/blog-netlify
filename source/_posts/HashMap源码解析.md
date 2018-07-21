@@ -396,4 +396,6 @@ final Node<K,V> getNode(int hash, Object key) {
 - HashMap可以插入null的key和value
 - HashMap线程不安全（多线程情况下会导致环形链表产生），若想要线程安全，最好使用ConcurrentHashMap
 
+ConcurrentHashMap源码参考：
 
+[ConcurrentHashMap源码](https://www.cnblogs.com/chengxiao/p/6842045.html)
